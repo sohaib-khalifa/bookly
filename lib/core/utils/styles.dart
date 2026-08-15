@@ -18,7 +18,6 @@ abstract class AppStyles {
   static const textStyle20 = TextStyle(
     fontSize: 20,
     fontWeight: FontWeight.normal,
-    fontFamily: kGtSectraFine, //* font familys
   );
 
   static const textStyle30 = TextStyle(
